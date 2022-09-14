@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> belajar tabel HTML!</title>
+    </html>
+        <body>
+            <h2>contoh image html 5</h2>
+            <table border="5" width="50%">
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>5</td>
+                  </tr>
+                <tr>
+                    <td>5</td>
+                    <td>6</td>
+                </td>
+                </td>
+                </tr>
+                </tr>
+                </tr>
+                <td><td>
+                </td>
+            </table>
+        </h2>
+        </body>
+    </head></title>
+    </head>
+</html>
